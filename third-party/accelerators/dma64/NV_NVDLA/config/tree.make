@@ -10,7 +10,8 @@
 ##=======================
 ## Project Name Setup, multiple projects supported
 ##=======================
-PROJECTS := nv_small_fpga
+PROJECTS := nv_medium_512
+#nv_small_fpga
 ##=======================
 ##Linux Environment Setup
 ##=======================
